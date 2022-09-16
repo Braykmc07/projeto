@@ -30,7 +30,7 @@ h1{
 
 #carrinho-principal{
     font-size: 60px;
-    color: #000000;
+    color: #ce3131;
     cursor: pointer;
     padding-left: 80px;
     vertical-align: text-bottom;
@@ -38,7 +38,7 @@ h1{
 }
 
 #carrinho-principal:hover{
-    color: white;
+    color: rgb(212, 54, 54);
 }
 
 .btMaisMenos{
@@ -65,7 +65,7 @@ h1{
     font-size: 20px;
 }
 .carrinho:hover{
-    color: #e66b6b;
+    color: #ce3232;
 }
 
 .produto{
@@ -140,7 +140,7 @@ p{
       bottom: 0;
       margin: 4px;
     font: 20px"lucida Sans", verdana; 
-text-align: 10px;
+     text-align: 10px;
 }
 
 
